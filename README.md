@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample static HTML website
+Welcome to the AWS CodeStar sample static HTML Website
 ==================================================
 
 This sample code helps get you started with a simple static HTML website
